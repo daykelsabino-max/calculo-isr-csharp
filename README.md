@@ -1,6 +1,6 @@
-##Carrera: Ingeniería de Software
-##Asignatura: Programación Básica
-##Profesor: Gamalier Reyes del Carmen
+## Carrera: Ingeniería de Software
+## Asignatura: Programación Básica
+## Profesor: Gamalier Reyes del Carmen
 
 # Cálculo de ISR en C#
 
