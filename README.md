@@ -1,3 +1,7 @@
+Carrera: Ingeniería de Software
+Asignatura: Programación Básica
+Profesor: Gamalier Reyes del Carmen
+
 # Cálculo de ISR en C#
 
 Este proyecto consiste en un programa desarrollado en C# que calcula el Impuesto Sobre la Renta (ISR) en República Dominicana.
@@ -15,7 +19,7 @@ El sistema permite ingresar el salario de un empleado y calcula automáticamente
 - Consola (Aplicación básica)
 
 ## Autor
-Daikel Sabino
+Daikel Sabino - 2022-4384.
 
 ## Ejecución del programa
 
