@@ -16,3 +16,14 @@ El sistema permite ingresar el salario de un empleado y calcula automáticamente
 
 ## Autor
 Daikel Sabino
+
+## Ejecución del programa
+
+### Escenario 1
+![Escenario 1](scenario1.png)
+
+### Escenario 2
+![Escenario 2](scenario2.png)
+
+### Escenario 3
+![Escenario 3](scenario3.png)
