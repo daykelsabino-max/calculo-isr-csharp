@@ -1,2 +1,18 @@
-# calculo-isr-csharp
-Programa en C# para calcular el ISR
+# Cálculo de ISR en C#
+
+Este proyecto consiste en un programa desarrollado en C# que calcula el Impuesto Sobre la Renta (ISR) en República Dominicana.
+
+## Descripción
+El sistema permite ingresar el salario de un empleado y calcula automáticamente el ISR correspondiente según las reglas establecidas.
+
+## Funcionalidades
+- Entrada de salario
+- Cálculo automático de ISR
+- Muestra el resultado en pantalla
+
+## Tecnologías
+- Lenguaje: C#
+- Consola (Aplicación básica)
+
+## Autor
+Daikel Sabino
